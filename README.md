@@ -19,6 +19,18 @@ npm run dev
 https://lihyosong-a11y.github.io/replace/
 ```
 
+처음 사용할 때는 GitHub 저장소의 `Settings` → `Pages`에서 `Source`를 `GitHub Actions`로 선택해야 합니다.
+
+## Vercel 배포
+
+Vercel에서는 GitHub 저장소를 Import하면 됩니다.
+
+- Framework Preset: `Vite`
+- Build Command: `npm run build`
+- Output Directory: `dist`
+
+Vercel 배포에서는 앱이 사이트 루트(`/`)에서 열리도록 설정되어 있습니다.
+
 ## 확인 명령
 
 ```bash
