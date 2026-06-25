@@ -11,6 +11,14 @@ npm run dev
 
 브라우저에서 터미널에 표시되는 주소로 접속하면 됩니다.
 
+## GitHub Pages
+
+배포 후 아래 주소에서 앱을 열 수 있습니다.
+
+```text
+https://lihyosong-a11y.github.io/replace/
+```
+
 ## 확인 명령
 
 ```bash
